@@ -106,10 +106,3 @@ Probability Functions
 * disjunt_insiems(a, b)
 * complement_probability(probability)
 * probability_planner(events, sample_space, favorables) -> prints all probability results at once
-
----
-
-License
-This project is licensed under the MIT License.
-
----
